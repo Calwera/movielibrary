@@ -5,4 +5,4 @@
 
 ##CRUD (Java, Spring Boot, MySQL, Docker, REST API)
 
-## PUT nadpisuje obiekt tworzy nowy PATCH natomiast edytuje obiekt
+## PUT nadpisuje obiekt PATCH natomiast edytuje obiekt
